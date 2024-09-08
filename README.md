@@ -1,4 +1,4 @@
-# WireGuard Easy
+# WireGuard Eas
 
 You have found the easiest way to install & manage WireGuard on any Linux host!
 
